@@ -1,6 +1,6 @@
 {
-  "name": "bim360-qa-dashboard-slack-app",
-  "author": "Vitaliy Krynytskyy Vitaliy.Krynytskyy@autodesk.com",
+  "name": "regression-dashboard-slack-app",
+  "author": "Vitaliy Krynytskyy Vitaliy.Krynytskyy@gmail.com",
   "version": "0.1.0",
   "private": true,
   "scripts": {

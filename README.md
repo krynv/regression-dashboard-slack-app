@@ -1,4 +1,4 @@
-# Slack Application for the [egression Test Dashboard](https://github.com/krynv/regression-dashboard)
+# Slack Application for the [Regression Test Dashboard](https://github.com/krynv/regression-dashboard)
 
 [_Dashboard 2.0_](https://github.com/krynv/regression-dashboard) now features Slack integration! 
 
