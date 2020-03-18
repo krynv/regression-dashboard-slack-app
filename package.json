@@ -7,7 +7,7 @@
     "start": "node slackapplication.js"
   },
   "dependencies": {
-    "botkit": "4.6.2",
+    "botkit": "4.8.1",
     "botkit-storage-mongo": "^1.0.2",
     "convert-time": "^0.3.0",
     "dateformat": "^3.0.3",
