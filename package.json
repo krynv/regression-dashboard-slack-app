@@ -10,7 +10,7 @@
     "botkit": "4.8.1",
     "botkit-storage-mongo": "^1.0.2",
     "convert-time": "^0.3.0",
-    "dateformat": "^3.0.3",
+    "dateformat": "^4.5.1",
     "lodash": "^4.17.4",
     "mongodb": "^3.2.7"
   }
