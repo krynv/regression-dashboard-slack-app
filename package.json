@@ -12,6 +12,6 @@
     "convert-time": "^0.3.0",
     "dateformat": "^3.0.3",
     "lodash": "^4.17.4",
-    "mongodb": "^3.2.7"
+    "mongodb": "^4.0.1"
   }
 }
